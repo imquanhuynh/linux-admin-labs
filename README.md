@@ -35,8 +35,7 @@ linux-admin-labs/
 │ └── module-07-shell-scripting/
 └── README.md
 
-yaml
-Sao chép mã
+
 
 Each module contains:
 - A **module-level README** summarizing scope and outcomes
